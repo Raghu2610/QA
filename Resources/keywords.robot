@@ -1,2 +1,6 @@
+*** Settings ***
+Library    SeleniumLibrary
 
-aaddd
+*** Variables ***
+${email}    test@gmail.com
+${password}    Test@123
